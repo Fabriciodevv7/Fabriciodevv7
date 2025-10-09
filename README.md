@@ -31,5 +31,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ## 📫 Entre em Contato
 
-- **LinkedIn:** [Fabrício Pires](www.linkedin.com/in/fabrícioopires)
+- **LinkedIn:** [www.linkedin.com/in/fabrícioopires]
 - **Email:** piresfabricio024@gmail.com
