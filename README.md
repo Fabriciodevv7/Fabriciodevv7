@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Fabrício Pires!
 
-- 🎓 Atualmente no 3º período de **Ciência da Computação**.
+- 🎓 Atualmente no 5º período de **Ciência da Computação**.
 - 💻 Focado no desenvolvimento de aplicações **Back-end e Full-Stack**.
 - 🚀 Buscando minha primeira oportunidade de **estágio em Desenvolvimento de Software** para aplicar minhas habilidades e aprender com projetos desafiadores.
 
